@@ -1,0 +1,131 @@
+{
+	"editor.tabSize": 4,
+	"editor.fontSize": 14,
+	"editor.lineHeight": 26,
+	"editor.fontFamily": "Fira Code",
+	"editor.rulers": [80, 120],
+	"editor.formatOnSave": false,
+	"editor.fontLigatures": true,
+	"editor.renderLineHighlight": "gutter",
+	"editor.parameterHints.enabled": false,
+	"editor.wordWrap": "off",
+	"editor.cursorStyle": "line",
+	"editor.insertSpaces": false,
+	"editor.suggestSelection": "first",
+	"editor.minimap.enabled": true,
+	"editor.wordSeparators": "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
+  
+	"workbench.colorTheme": "One Dark Pro",
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.startupEditor": "none",
+	"workbench.editor.labelFormat": "short",
+	"workbench.editor.enablePreview": false,
+  
+	"explorer.compactFolders": false,
+	"explorer.confirmDragAndDrop": false,
+	"explorer.confirmDelete": false,
+  
+	"terminal.integrated.fontSize": 12,
+  
+	"extensions.ignoreRecommendations": true,
+	"breadcrumbs.enabled": true,
+  
+	"typescript.tsserver.log": "off",
+	"javascript.suggest.autoImports": true,
+	"typescript.suggest.autoImports": true,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"typescript.updateImportsOnFileMove.enabled": "never",
+  
+	"files.associations": {
+	  ".sequelizerc": "javascript",
+	  ".stylelintrc": "json",
+	  ".prettierrc": "json"
+	},
+  
+	"emmet.syntaxProfiles": { "javascript": "jsx" },
+	"emmet.includeLanguages": { "javascript": "javascriptreact" },
+  
+	"git.enableSmartCommit": true,
+	"gitlens.codeLens.recentChange.enabled": false,
+	"gitlens.codeLens.authors.enabled": false,
+	"gitlens.codeLens.enabled": false,
+	"gitlens.hovers.currentLine.over": "line",
+  
+	"tabnine.experimentalAutoImports": true,
+  
+	"material-icon-theme.activeIconPack": "nest",
+	"screencastMode.onlyKeyboardShortcuts": true,
+  
+	"material-icon-theme.folders.associations": {
+	  "decorators": "typescript",
+	  "domain": "components",
+	  "entity": "resource",
+	  "entities": "class",
+	  "exceptions": "error",
+	  "express": "node",
+	  "http": "container",
+	  "infra": "app",
+	  "loaders": "benchmark",
+	  "logger": "log",
+	  "migrations": "tools",
+	  "modules": "components",
+	  "repositories": "mappings",
+	  "request": "resource",
+	  "requests": "resource",
+	  "responses": "resource",
+	  "seeds": "meta",
+	  "schemas": "class",
+	  "viewmodel": "mjml",
+	  "__temp__": "temp"
+	},
+  
+	"material-icon-theme.files.associations": {
+	  "*.cnf": "tune",
+	  "ormconfig.json": "bazel",
+	  "tsconfig.json": "tune"
+	},
+  
+	"cSpell.language": "en,pt,pt_BR",
+	"cSpell.enableFiletypes": ["pip-requirements"],
+  
+	"go.formatTool": "goimports",
+	"go.testEnvFile": "${workspaceFolder}/.env",
+	"go.toolsManagement.autoUpdate": true,
+  
+	"python.languageServer": "Default",
+  
+	"liveshare.featureSet": "insiders",
+	"liveServer.settings.donotShowInfoMsg": true,
+	"liveServer.settings.donotVerifyTags": true,
+  
+	"redhat.telemetry.enabled": true,
+	"diffEditor.ignoreTrimWhitespace": false,
+  
+	"[javascript]": {
+	  "editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+  
+	"[typescript]": {
+	  "editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+  
+	"[json]": {
+	  "editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+  
+	"[html]": {
+	  "editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+  
+	"[jsonc]": {
+	  "editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+  
+	"editor.codeActionsOnSave": {
+	  "source.fixAll.eslint": true
+	},
+  
+	"window.zoomLevel": -0.75,
+	"bracket-pair-colorizer-2.depreciation-notice": false
+  }
+  
